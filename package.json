@@ -1,0 +1,14 @@
+{
+  "name": "audio-api-learn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@gitee.com:ToTheEnd/audio-api-learn.git",
+  "author": "libiao <libiao@chinadata.org.cn>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node ./main/app.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
